@@ -1,5 +1,5 @@
 ## 🌐 React-Dashboard
-Exemplo de Dashboard em React.
+Exemplo de Dashboard em React 19.
 
 #### 🎨 Aqui está uma demonstração do Projeto
 https://dash-board-umber-sigma.vercel.app/
