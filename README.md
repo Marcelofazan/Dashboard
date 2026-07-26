@@ -1,4 +1,4 @@
-## 🌐 React-Dashboard
+## 🌐 React-Dashboard-Administrativo
 Exemplo de Dashboard em React 19.
 
 #### 🎨 Aqui está uma demonstração do Projeto
